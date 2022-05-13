@@ -50,7 +50,7 @@ Exemplo de um contador utilizando os conceitos de **this**, **closures**, **prox
 
 ## :sparkles: Features
 
-:heavy_check_mark: Contador utilizando os conceitos citados;\
+:heavy_check_mark: Contador utilizando os conceitos citados acima.
 
 ## :rocket: Technologies
 
